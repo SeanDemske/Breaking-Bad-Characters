@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.aceea456.chunk.css",
-    "main.js": "/static/js/main.938b024f.chunk.js",
-    "main.js.map": "/static/js/main.938b024f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c13a616d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c13a616d.js.map",
-    "static/js/2.a2730ed3.chunk.js": "/static/js/2.a2730ed3.chunk.js",
-    "static/js/2.a2730ed3.chunk.js.map": "/static/js/2.a2730ed3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.64f14649c96015ffb73897e5df4e3361.js": "/precache-manifest.64f14649c96015ffb73897e5df4e3361.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.aceea456.chunk.css.map": "/static/css/main.aceea456.chunk.css.map",
-    "static/js/2.a2730ed3.chunk.js.LICENSE.txt": "/static/js/2.a2730ed3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/static/media/spinner.235b9b3e.gif"
+    "main.css": "/breaking-bad-characters/static/css/main.455bb167.chunk.css",
+    "main.js": "/breaking-bad-characters/static/js/main.938b024f.chunk.js",
+    "main.js.map": "/breaking-bad-characters/static/js/main.938b024f.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-characters/static/js/runtime-main.e54c6bc0.js",
+    "runtime-main.js.map": "/breaking-bad-characters/static/js/runtime-main.e54c6bc0.js.map",
+    "static/js/2.a2730ed3.chunk.js": "/breaking-bad-characters/static/js/2.a2730ed3.chunk.js",
+    "static/js/2.a2730ed3.chunk.js.map": "/breaking-bad-characters/static/js/2.a2730ed3.chunk.js.map",
+    "index.html": "/breaking-bad-characters/index.html",
+    "precache-manifest.387091ff4c7a783ef90428748c98cf62.js": "/breaking-bad-characters/precache-manifest.387091ff4c7a783ef90428748c98cf62.js",
+    "service-worker.js": "/breaking-bad-characters/service-worker.js",
+    "static/css/main.455bb167.chunk.css.map": "/breaking-bad-characters/static/css/main.455bb167.chunk.css.map",
+    "static/js/2.a2730ed3.chunk.js.LICENSE.txt": "/breaking-bad-characters/static/js/2.a2730ed3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-characters/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breaking-bad-characters/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breaking-bad-characters/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.c13a616d.js",
+    "static/js/runtime-main.e54c6bc0.js",
     "static/js/2.a2730ed3.chunk.js",
-    "static/css/main.aceea456.chunk.css",
+    "static/css/main.455bb167.chunk.css",
     "static/js/main.938b024f.chunk.js"
   ]
 }
